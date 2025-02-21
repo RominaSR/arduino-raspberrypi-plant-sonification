@@ -1,0 +1,258 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "untitled",
+	"origin" : "synth_jardin",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 0,
+	"snapshot" : 	{
+		"cutoff" : 		{
+			"value" : 880.0
+		}
+,
+		"harmonics" : 		{
+			"value" : 3.0
+		}
+,
+		"__sps" : 		{
+			"poly" : [ 				{
+					"__sps" : 					{
+						"delay" : 						{
+							"right_delay" : 							{
+								"value" : 400.0
+							}
+,
+							"fb" : 							{
+								"value" : 0.25
+							}
+,
+							"left_delay" : 							{
+								"value" : 300.0
+							}
+
+						}
+,
+						"envelope" : 						{
+
+						}
+,
+						"filter" : 						{
+
+						}
+
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"delay" : 						{
+							"right_delay" : 							{
+								"value" : 400.0
+							}
+,
+							"fb" : 							{
+								"value" : 0.25
+							}
+,
+							"left_delay" : 							{
+								"value" : 300.0
+							}
+
+						}
+,
+						"envelope" : 						{
+
+						}
+,
+						"filter" : 						{
+
+						}
+
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"delay" : 						{
+							"right_delay" : 							{
+								"value" : 400.0
+							}
+,
+							"fb" : 							{
+								"value" : 0.25
+							}
+,
+							"left_delay" : 							{
+								"value" : 300.0
+							}
+
+						}
+,
+						"envelope" : 						{
+
+						}
+,
+						"filter" : 						{
+
+						}
+
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"delay" : 						{
+							"right_delay" : 							{
+								"value" : 400.0
+							}
+,
+							"fb" : 							{
+								"value" : 0.25
+							}
+,
+							"left_delay" : 							{
+								"value" : 300.0
+							}
+
+						}
+,
+						"envelope" : 						{
+
+						}
+,
+						"filter" : 						{
+
+						}
+
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"delay" : 						{
+							"right_delay" : 							{
+								"value" : 400.0
+							}
+,
+							"fb" : 							{
+								"value" : 0.25
+							}
+,
+							"left_delay" : 							{
+								"value" : 300.0
+							}
+
+						}
+,
+						"envelope" : 						{
+
+						}
+,
+						"filter" : 						{
+
+						}
+
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"delay" : 						{
+							"right_delay" : 							{
+								"value" : 400.0
+							}
+,
+							"fb" : 							{
+								"value" : 0.25
+							}
+,
+							"left_delay" : 							{
+								"value" : 300.0
+							}
+
+						}
+,
+						"envelope" : 						{
+
+						}
+,
+						"filter" : 						{
+
+						}
+
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"delay" : 						{
+							"right_delay" : 							{
+								"value" : 400.0
+							}
+,
+							"fb" : 							{
+								"value" : 0.25
+							}
+,
+							"left_delay" : 							{
+								"value" : 300.0
+							}
+
+						}
+,
+						"envelope" : 						{
+
+						}
+,
+						"filter" : 						{
+
+						}
+
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"delay" : 						{
+							"right_delay" : 							{
+								"value" : 400.0
+							}
+,
+							"fb" : 							{
+								"value" : 0.25
+							}
+,
+							"left_delay" : 							{
+								"value" : 300.0
+							}
+
+						}
+,
+						"envelope" : 						{
+
+						}
+,
+						"filter" : 						{
+
+						}
+
+					}
+
+				}
+ ]
+		}
+,
+		"overblow" : 		{
+			"value" : 1.5
+		}
+,
+		"Q" : 		{
+			"value" : 3.0
+		}
+,
+		"__presetid" : "synth_jardin"
+	}
+
+}

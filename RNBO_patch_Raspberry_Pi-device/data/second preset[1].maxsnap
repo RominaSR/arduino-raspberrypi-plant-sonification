@@ -1,0 +1,472 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "60 freq",
+	"origin" : "remote_example",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 1,
+	"snapshot" : 	{
+		"phasorgain" : 		{
+			"value" : 0.0
+		}
+,
+		"sahgainin" : 		{
+			"value" : 0.0
+		}
+,
+		"groovegain" : 		{
+			"value" : 0.0
+		}
+,
+		"sawdetune" : 		{
+			"value" : 0.75
+		}
+,
+		"midisawgain" : 		{
+			"value" : 0.5
+		}
+,
+		"sawvoices" : 		{
+			"value" : 7.0
+		}
+,
+		"__sps" : 		{
+			"datafiles" : 			{
+
+			}
+,
+			"sah" : 			{
+
+			}
+,
+			"saw" : [ 				{
+					"__sps" : 					{
+						"supersaw" : [ 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+ ]
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"supersaw" : [ 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+ ]
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"supersaw" : [ 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+ ]
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"supersaw" : [ 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+ ]
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"supersaw" : [ 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+ ]
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"supersaw" : [ 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+, 							{
+								"__sps" : 								{
+									"detune" : 									{
+
+									}
+
+								}
+
+							}
+ ]
+					}
+
+				}
+ ]
+		}
+,
+		"cyclegain" : 		{
+			"value" : 0.0
+		}
+,
+		"frequency" : 		{
+			"value" : 440.0
+		}
+,
+		"__presetid" : "remote_example"
+	}
+
+}

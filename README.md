@@ -137,7 +137,7 @@ CapacitiveSensor cs_4_2 = CapacitiveSensor(4, 2);
 2. Use Raspberry Pi Imager to flash the image onto the microSD card.
 3. Configure WiFi, hostname, and enable SSH + Wireless LAN setup during flashing.
 
-### **2️⃣ Setting Up the HifiBerry Sound Card**
+### **2️⃣ Setting Up the HifiBerry Soundcard**
 4. Connect the HifiBerry sound card to the Raspberry Pi's GPIO pins.
 5. Connect the RCA cable to the HifiBerry audio outputs.
 6. Plug the other end of the RCA cable into the audio splitter via the 3.5mm mini-jack.
@@ -154,7 +154,7 @@ CapacitiveSensor cs_4_2 = CapacitiveSensor(4, 2);
 
 ---
 
-## 📜 Credits and lLicense
+## 📜 Credits and license
 
 📌 Developed for educational workshops.  
 📌 Created by **Romina S. Romay**.  

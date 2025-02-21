@@ -154,6 +154,14 @@ CapacitiveSensor cs_4_2 = CapacitiveSensor(4, 2);
 
 ---
 
+## 🎥 Video Demonstration
+
+Here is a video showcasing a previous version of the project, where humidity, temperature, and conductivity data from plants were used, employing Arduinos and radio frequency transmission modules to sonify plant data:
+
+[![Previous Version of the Project](https://img.youtube.com/vi/JUzQznuW748/0.jpg)](https://youtu.be/JUzQznuW748)
+
+---
+
 ## 📜 Credits and license
 
 📌 Developed for educational workshops.  
